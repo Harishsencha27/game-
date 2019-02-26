@@ -1,5 +1,5 @@
 # hari
-# Memory Game Project
+# Random Game Project
 [Play it here]      clone this repo and run `index.html` <br>
 A project for the course Web Programming in Javascript which gave us the chance to combine all the things we learnt about HTML, CSS, JavaScript.
 ##### How to play the game
